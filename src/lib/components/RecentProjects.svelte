@@ -1,5 +1,4 @@
 <script lang="ts">
-	// Import the projects.json file from $lib/data/
 	import recentProjects from '$lib/data/projects.json';
 
 	// Get the last 3 projects

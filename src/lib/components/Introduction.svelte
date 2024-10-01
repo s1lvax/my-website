@@ -1,7 +1,7 @@
 <h1
 	class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight dark:text-white"
 >
-	Hello ! My name's <span class="text-[#FCC237]">Cesario Silva</span>
+	Hello! My name's <span class="text-[#FCC237]">Cesario Silva</span>
 </h1>
 <p class="mt-3 text-lg text-gray-800 dark:text-neutral-400">
 	Bringing your visions to life, one line of code at a time. <br /><br />I specialize in full-stack

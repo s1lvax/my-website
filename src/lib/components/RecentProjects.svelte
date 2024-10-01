@@ -44,7 +44,7 @@
 				</a>
 
 				<p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-					{truncateDescription(project.description)}
+					{@html truncateDescription(project.description)}
 				</p>
 			</div>
 			<!-- End Right Content -->

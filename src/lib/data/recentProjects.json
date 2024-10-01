@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Junior Software Engineer at Slack",
+		"date": "2011 - 2021",
+		"description": "Work in Slack is one of the beautiful experiences in my entire life. There are a lot of interesting things to learn, and management respects your time and personality.",
+		"url": "/projects/slack"
+	},
+	{
+		"title": "Freelance Graphic Designer",
+		"date": "2010 - 2011",
+		"description": "Worked with a diverse range of clients, delivering tailored design solutions. Developed and maintained strong client relationships through effective communication and project management.",
+		"url": "/projects/graphic-designer"
+	},
+	{
+		"title": "Junior Developer at TechCorp",
+		"date": "2009 - 2010",
+		"description": "As a Junior Developer, I worked on various web applications, gaining experience in frontend and backend technologies while collaborating with senior developers to create efficient solutions.",
+		"url": "/projects/techcorp"
+	}
+]

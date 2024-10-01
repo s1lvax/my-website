@@ -32,7 +32,7 @@
 		<div class="mt-3">
 			<!-- Card -->
 			<a
-				class="block rounded-lg border border-gray-200 transition-transform duration-300 hover:scale-105 hover:border-[#FCC237] hover:shadow-sm focus:outline-none dark:border-neutral-700"
+				class="block rounded-lg border border-neutral-700 transition-transform duration-300 hover:scale-105 hover:border-[#FCC237] hover:shadow-sm focus:outline-none"
 				href="/project/{project.slug}"
 			>
 				<div class="relative flex items-center overflow-hidden">
@@ -44,10 +44,10 @@
 
 					<div class="ms-32 grow p-4 sm:ms-48">
 						<div class="flex min-h-24 flex-col justify-center">
-							<h3 class="text-sm font-semibold text-gray-800 dark:text-neutral-300">
+							<h3 class="text-sm font-semibold text-neutral-300">
 								{project.title}
 							</h3>
-							<p class="mt-1 text-sm text-gray-500 dark:text-neutral-500">
+							<p class="mt-1 text-sm text-neutral-500">
 								{truncateDescription(project.description)}
 							</p>
 						</div>

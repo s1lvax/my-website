@@ -8,9 +8,7 @@
 
 <!-- Timeline -->
 <div class="mb-10 mt-10 pb-10">
-	<h1
-		class="mb-10 block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight dark:text-white"
-	>
+	<h1 class="mb-10 block text-3xl font-bold text-white sm:text-4xl lg:text-4xl lg:leading-tight">
 		My Recent Projects
 	</h1>
 
@@ -34,7 +32,7 @@
 
 			<!-- Right Content -->
 			<div class="grow pb-8 group-last:pb-0">
-				<h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">{project.date}</h3>
+				<h3 class="mb-1 text-xs text-neutral-400">{project.date}</h3>
 
 				<a
 					href="/project/{project.slug}"
@@ -43,7 +41,7 @@
 					{project.title}
 				</a>
 
-				<p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+				<p class="mt-1 text-sm text-neutral-400">
 					{@html truncateDescription(project.description)}
 				</p>
 			</div>

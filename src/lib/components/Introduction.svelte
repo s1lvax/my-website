@@ -14,13 +14,13 @@
 		class="inline-flex transform items-center justify-center gap-x-2 rounded-2xl border border-transparent bg-[#FCC237] px-4 py-3 text-sm font-medium text-black transition-transform hover:scale-105 focus:outline-none active:scale-95 disabled:pointer-events-none disabled:opacity-50"
 		href="mailto:silva@cfsilva.com"
 	>
-		Turn my idea into reality
+		<i class="fa-solid fa-pen"></i> Turn My Idea Into Reality
 	</a>
 	<a
 		class="inline-flex transform items-center justify-center gap-x-2 rounded-2xl border border-transparent bg-neutral-400 px-4 py-3 text-sm font-medium text-black transition-transform hover:scale-105 focus:outline-none active:scale-95 disabled:pointer-events-none disabled:opacity-50"
 		href="/portfolio"
 	>
-		My Portfolio
+		<i class="fa-solid fa-briefcase"></i> My Portfolio
 	</a>
 </div>
 <!-- End Buttons -->

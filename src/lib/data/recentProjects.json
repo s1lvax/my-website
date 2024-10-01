@@ -1,20 +1,20 @@
 [
 	{
-		"title": "Junior Software Engineer at Slack",
-		"date": "2011 - 2021",
-		"description": "Work in Slack is one of the beautiful experiences in my entire life. There are a lot of interesting things to learn, and management respects your time and personality.",
-		"url": "/projects/slack"
+		"title": "Autocenter Goedert - Intranet",
+		"date": "August 2024",
+		"description": "The Goedert Intranet, used for internal communications, photo-sharing, and document-sharing, was outdated and rarely used by employees. The goal was to completely overhaul the intranet with a modern design, eliminate frontend bugs, and create a clean, user-friendly admin panel for the HR and Marketing departments to work efficiently.",
+		"url": "/projects/autocenter-goedert-intranet"
 	},
 	{
-		"title": "Freelance Graphic Designer",
-		"date": "2010 - 2011",
-		"description": "Worked with a diverse range of clients, delivering tailored design solutions. Developed and maintained strong client relationships through effective communication and project management.",
-		"url": "/projects/graphic-designer"
+		"title": "Velocenter Goedert",
+		"date": "May 2024",
+		"description": "The Velocenter Goedert was outdated. We created a completely new modern version with a clean design and also custom integrations with the company's ERP system. The goal was to increase sales and improve the user experience.",
+		"url": "/projects/velocenter-goedert"
 	},
 	{
-		"title": "Junior Developer at TechCorp",
-		"date": "2009 - 2010",
-		"description": "As a Junior Developer, I worked on various web applications, gaining experience in frontend and backend technologies while collaborating with senior developers to create efficient solutions.",
-		"url": "/projects/techcorp"
+		"title": "Autocenter Goedert - Credentials API",
+		"date": "March 2024",
+		"description": "A Go-based API that encrypts and decrypts user credentials.",
+		"url": "/projects/autocenter-goedert-credentials-api"
 	}
 ]

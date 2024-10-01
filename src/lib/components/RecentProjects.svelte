@@ -4,7 +4,7 @@
 </script>
 
 <!-- Timeline -->
-<div class="mx-auto mb-10 max-w-[85rem]">
+<div class="mx-auto mb-10 mt-10">
 	<h1
 		class="mb-10 block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight dark:text-white"
 	>

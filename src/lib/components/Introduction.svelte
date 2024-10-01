@@ -14,7 +14,7 @@
 		class="inline-flex transform items-center justify-center gap-x-2 rounded-2xl border border-transparent bg-[#FCC237] px-4 py-3 text-sm font-medium text-black transition-transform hover:scale-105 focus:outline-none active:scale-95 disabled:pointer-events-none disabled:opacity-50"
 		href="mailto:silva@cfsilva.com"
 	>
-		<i class="fa-solid fa-pen"></i> Turn My Idea Into Reality
+		<i class="fa-solid fa-pen"></i> Let's Create Something Together
 	</a>
 	<a
 		class="inline-flex transform items-center justify-center gap-x-2 rounded-2xl border border-transparent bg-neutral-400 px-4 py-3 text-sm font-medium text-black transition-transform hover:scale-105 focus:outline-none active:scale-95 disabled:pointer-events-none disabled:opacity-50"

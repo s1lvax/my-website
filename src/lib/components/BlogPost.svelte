@@ -19,14 +19,12 @@
 				<div class="shrink-0">
 					<img class="size-12 rounded-full" src={authorAvatar} alt="Avatar" />
 				</div>
-
 				<div class="grow">
 					<div class="flex items-center justify-between gap-x-2">
 						<div>
 							<span class="font-semibold text-gray-800 dark:text-neutral-200">
 								{authorName}
 							</span>
-
 							<ul class="text-xs text-gray-500 dark:text-neutral-500">
 								<li
 									class="relative inline-block pe-6 before:absolute before:end-2 before:top-1/2 before:size-1 before:-translate-y-1/2 before:rounded-full before:bg-gray-300 last:pe-0 last-of-type:before:hidden dark:text-neutral-400 dark:before:bg-neutral-600"
@@ -47,10 +45,7 @@
 
 		<div class="space-y-5 md:space-y-8">
 			<div class="space-y-3">
-				<h2 class="text-2xl font-bold md:text-3xl dark:text-white">
-					{title}
-				</h2>
-
+				<h2 class="text-2xl font-bold md:text-3xl dark:text-white">{title}</h2>
 				<p class="text-lg text-gray-800 dark:text-neutral-200">
 					{@html content}
 				</p>

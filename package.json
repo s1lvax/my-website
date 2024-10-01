@@ -38,6 +38,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"marked": "^14.1.2",
 		"preline": "^2.5.0"
 	}
 }

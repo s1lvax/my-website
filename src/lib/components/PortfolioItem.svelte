@@ -1,11 +1,7 @@
 <script lang="ts">
-	export let project: {
-		url: string;
-		date: string;
-		title: string;
-		image: string;
-		description: string;
-	};
+	import type { project } from '$lib/types/project';
+
+	export let project: project;
 
 	import { truncateDescription } from '$lib/utils/truncateDescription';
 </script>
@@ -16,7 +12,7 @@
 		class="relative after:absolute after:bottom-2 after:start-3 after:top-8 after:w-px after:-translate-x-[0.5px] after:bg-gray-200 group-last:after:hidden dark:after:bg-neutral-700"
 	>
 		<a
-			href={project.url}
+			href={project.slug}
 			class="relative z-10 flex size-6 items-center justify-center transition-transform duration-300 hover:scale-110"
 		>
 			<i
@@ -37,7 +33,7 @@
 			<!-- Card -->
 			<a
 				class="block rounded-lg border border-gray-200 transition-transform duration-300 hover:scale-105 hover:border-[#FCC237] hover:shadow-sm focus:outline-none dark:border-neutral-700"
-				href={project.url}
+				href="/project/{project.slug}"
 			>
 				<div class="relative flex items-center overflow-hidden">
 					<img

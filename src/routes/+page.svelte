@@ -6,4 +6,5 @@
 <main class="mx-auto flex h-screen max-w-[85rem] flex-col px-4 sm:px-6 lg:px-8">
 	<Hero />
 	<RecentProjects />
+	<script src="./node_modules/preline/dist/preline.js"></script>
 </main>

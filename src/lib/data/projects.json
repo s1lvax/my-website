@@ -3,18 +3,21 @@
 		"title": "Autocenter Goedert - Intranet",
 		"date": "August 2024",
 		"description": "The Goedert Intranet, used for internal communications, photo-sharing, and document-sharing, was outdated and rarely used by employees. The goal was to completely overhaul the intranet with a modern design, eliminate frontend bugs, and create a clean, user-friendly admin panel for the HR and Marketing departments to work efficiently.",
-		"url": "/projects/autocenter-goedert-intranet"
+		"url": "/projects/autocenter-goedert-intranet",
+		"image": "https://i.imgur.com/oBoLA2Q.gif"
 	},
 	{
 		"title": "Velocenter Goedert",
 		"date": "May 2024",
 		"description": "The Velocenter Goedert was outdated. We created a completely new modern version with a clean design and also custom integrations with the company's ERP system. The goal was to increase sales and improve the user experience.",
-		"url": "/projects/velocenter-goedert"
+		"url": "/projects/velocenter-goedert",
+		"image": "https://i.imgur.com/y4U62WM.png"
 	},
 	{
 		"title": "Autocenter Goedert - Credentials API",
 		"date": "March 2024",
 		"description": "A Go-based API that encrypts and decrypts user credentials.",
-		"url": "/projects/autocenter-goedert-credentials-api"
+		"url": "/projects/autocenter-goedert-credentials-api",
+		"image": "https://plus.unsplash.com/premium_photo-1681487746049-c39357159f69?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 	}
 ]

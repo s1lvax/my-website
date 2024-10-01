@@ -1,6 +1,9 @@
 <script lang="ts">
-	// Import the recentProjects.json file from $lib/data/
-	import recentProjects from '$lib/data/recentProjects.json';
+	// Import the projects.json file from $lib/data/
+	import recentProjects from '$lib/data/projects.json';
+
+	// Get the last 3 projects
+	let lastThreeProjects = recentProjects.slice(-3);
 </script>
 
 <!-- Timeline -->
@@ -11,7 +14,7 @@
 		My Recent Projects
 	</h1>
 
-	{#each recentProjects as project}
+	{#each lastThreeProjects as project}
 		<!-- Item -->
 		<div class="group relative flex gap-x-5">
 			<!-- Icon -->

@@ -33,6 +33,11 @@ jobs:
           script: |
             cd '/opt/my-website'
 
+            # Overwrite the .env file to recreate it during each deployment
+            echo "POSTMARK_KEY=${{ secrets.POSTMARK_KEY }}" > .env
+            echo "FROM_EMAIL=${{ secrets.FROM_EMAIL }}" >> .env
+            echo "TO_EMAIL=${{ secrets.TO_EMAIL }}" >> .env
+
             docker build -t my-website .
             docker stop my-website || true
             docker rm my-website || true

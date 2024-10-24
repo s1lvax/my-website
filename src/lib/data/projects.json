@@ -1,13 +1,5 @@
 [
 	{
-		"title": "Autocenter Goedert - Intranet",
-		"slug": "autocenter-goedert-intranet",
-		"date": "August 2024",
-		"description": "The Goedert Intranet, used for internal communications, photo-sharing, and document-sharing, was outdated and rarely used by employees. Several factors contributed to this:<br><br><strong>Outdated Design:</strong> The website looked boring and failed to engage employees, leading to poor user interaction and many missing important communications.<br><br><strong>Frontend Bugs:</strong> There were persistent bugs on the frontend, making the user experience frustrating and unreliable.<br><br><strong>Inefficient Admin Panel:</strong> The backend admin panel was cluttered and difficult to use, making it hard for the HR and Marketing departments to manage content effectively.<br><br>Objective: The goal was to completely overhaul the intranet with a modern design, eliminate frontend bugs, and create a clean, user-friendly admin panel for the HR and Marketing departments to work efficiently. Our focus was on improving the user experience with a sleek design while also providing a more intuitive and streamlined backend for content management.<br><br>Solution: To solve these issues, we developed a brand new website with a focus on modern design and functionality. <br><br>Technologies Used: Ruby on Rails for rapid backend development, PostgreSQL for the database, Docker and GitHub Actions for automated CI/CD deployment.<br><br>Key Features: Slick and Modern Design with professional animations, bug fixes, improved admin panel for content management, automated deployment with Docker and GitHub Actions, and email notifications for new posts.<br><br>Development and Testing: The process took around 2 months using Ruby on Rails.<br><br>Result: The revamped intranet significantly boosted user engagement and internal communication. The new admin panel empowered the HR and Marketing departments to manage content more effectively and provided a much-needed operational boost for these teams.",
-		"image": "https://i.imgur.com/oBoLA2Q.gif"
-	},
-
-	{
 		"title": "Velocenter Goedert",
 		"slug": "velocenter-goedert",
 		"date": "May 2024",
@@ -20,5 +12,19 @@
 		"date": "March 2024",
 		"description": "A Go-based API that encrypts and decrypts user credentials. <br><br>I can't provide further details for obvious reasons.",
 		"image": "https://plus.unsplash.com/premium_photo-1681487746049-c39357159f69?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"title": "Autocenter Goedert - Intranet",
+		"slug": "autocenter-goedert-intranet",
+		"date": "August 2024",
+		"description": "The Goedert Intranet, used for internal communications, photo-sharing, and document-sharing, was outdated and rarely used by employees. Several factors contributed to this:<br><br><strong>Outdated Design:</strong> The website looked boring and failed to engage employees, leading to poor user interaction and many missing important communications.<br><br><strong>Frontend Bugs:</strong> There were persistent bugs on the frontend, making the user experience frustrating and unreliable.<br><br><strong>Inefficient Admin Panel:</strong> The backend admin panel was cluttered and difficult to use, making it hard for the HR and Marketing departments to manage content effectively.<br><br>Objective: The goal was to completely overhaul the intranet with a modern design, eliminate frontend bugs, and create a clean, user-friendly admin panel for the HR and Marketing departments to work efficiently. Our focus was on improving the user experience with a sleek design while also providing a more intuitive and streamlined backend for content management.<br><br>Solution: To solve these issues, we developed a brand new website with a focus on modern design and functionality. <br><br>Technologies Used: Ruby on Rails for rapid backend development, PostgreSQL for the database, Docker and GitHub Actions for automated CI/CD deployment.<br><br>Key Features: Slick and Modern Design with professional animations, bug fixes, improved admin panel for content management, automated deployment with Docker and GitHub Actions, and email notifications for new posts.<br><br>Development and Testing: The process took around 2 months using Ruby on Rails.<br><br>Result: The revamped intranet significantly boosted user engagement and internal communication. The new admin panel empowered the HR and Marketing departments to manage content more effectively and provided a much-needed operational boost for these teams.",
+		"image": "https://i.imgur.com/oBoLA2Q.gif"
+	},
+	{
+		"title": "Route - Profile & GitHub Stats Platform",
+		"slug": "route-profile-github-stats",
+		"date": "October 2024",
+		"description": "Route allows users to showcase their favorite links, tech skills, GitHub stats and even their Spotify account in a sleek profile.<br><br>It's been amazing working with the open-source community on this project.",
+		"image": "https://i.imgur.com/DXWt4W7.png"
 	}
 ]

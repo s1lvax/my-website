@@ -3,7 +3,7 @@
 	import { truncateDescription } from '$lib/utils/truncateDescription';
 
 	// Get the last 3 projects
-	let lastThreeProjects = recentProjects.slice(-3);
+	let lastThreeProjects = recentProjects.slice(-3).reverse();
 </script>
 
 <!-- Timeline -->
